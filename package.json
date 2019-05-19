@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "dev": "npx vuepress dev .",
+    "build": "npx vuepress build .",
+    "deploy": "npm run build && gh-pages -d .vuepress/dist"
+  },
+  "dependencies": {
+    "@vssue/api-github-v3": "^0.9.0",
+    "@vssue/vuepress-plugin-vssue": "^0.9.1",
+    "gh-pages": "^2.0.1",
+    "ip": "^1.1.5",
+    "portfinder-sync": "^0.0.2",
+    "vuepress": "^0.14.11"
+  },
+  "devDependencies": {
+    "@meltwater/fetch-favicon": "^1.0.4",
+    "@vuepress/plugin-active-header-links": "^1.0.0-alpha.42",
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.42",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.42",
+    "@vuepress/plugin-nprogress": "^1.0.0-alpha.42",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.42",
+    "cheerio": "^1.0.0-rc.3",
+    "glob": "^7.1.4",
+    "markdown-it": "^8.4.2",
+    "request": "^2.88.0",
+    "vuepress-plugin-reading-time": "^0.1.1"
+  }
+}
