@@ -1,2 +1,5 @@
 # WebColumns
-定期按某个主题整理的开发者专栏
+
+> 定期整理某个主题的开发者专栏
+
+- [TypeScript 资源整理](./resources/typescript/README.md)

@@ -24,8 +24,8 @@
             repo: 'WebColumns',
             owner: 'huixisheng',
             admin: ['huixisheng'],
-            id: 'comment',
-            distractionFreeMode: false,
+            id: decodeURI(location.pathname),
+            distractionFreeMode: true,
             language: 'zh-CN',
           })
           try {
