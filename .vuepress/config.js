@@ -56,7 +56,14 @@ module.exports = {
   },
   themeConfig: {
     nav: [
-
+      { text: '主页', link: '/' },
+      { text: '每天一点点', link: '/day-day-up' },
+      {
+        text: '前端',
+        items: [
+          { text: 'TypeScript', link: '/resources/typescript/' },
+        ]
+      }
     ],
     search: true,
     lastUpdated: 'Last Updated',
@@ -68,15 +75,15 @@ module.exports = {
     // docsBranch: 'master',
     editLinks: true,
     editLinkText: '帮助我们改善此页面！',
-    displayAllHeaders: false,
-    sidebar: [
-      {
-        title: 'TypeScript',
-        collapsable: true,
-        children: ['/resources/typescript/'],
-      },
-      // ['/resources/TypeScript', 'TypeScript 资源整理'],
-    ],
+    displayAllHeaders: true,
+    sidebar: 'auto',
+    // sidebar: [
+    //   {
+    //     title: 'TypeScript',
+    //     collapsable: true,
+    //     children: ['/resources/typescript/', 'TypeScript'],
+    //   },
+    // ],
     serviceWorker: {
       // updatePopup: true // Boolean | Object, 默认值是 undefined.
       // 如果设置为 true, 默认的文本配置将是: 
