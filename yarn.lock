@@ -942,13 +942,6 @@
     markdown-it-table-of-contents "^0.4.0"
     prismjs "^1.13.0"
 
-"@vuepress/plugin-active-header-links@^1.0.0-alpha.42":
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/plugin-active-header-links/download/@vuepress/plugin-active-header-links-1.0.2.tgz#df04f7fc21640d3e0a0b704037e360e75974d1a2"
-  integrity sha1-3wT3/CFkDT4KC3BAN+Ng51l00aI=
-  dependencies:
-    lodash.throttle "^4.1.1"
-
 "@vuepress/plugin-active-header-links@^1.0.3":
   version "1.0.3"
   resolved "https://registry.npm.taobao.org/@vuepress/plugin-active-header-links/download/@vuepress/plugin-active-header-links-1.0.3.tgz#94cae9a4e554fb7989461741748938efaa2fd65e"
@@ -956,10 +949,10 @@
   dependencies:
     lodash.throttle "^4.1.1"
 
-"@vuepress/plugin-back-to-top@^1.0.0-alpha.42":
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/plugin-back-to-top/download/@vuepress/plugin-back-to-top-1.0.2.tgz#54b8cd65101b2b660a728d4c7d1203f2aa7a028f"
-  integrity sha1-VLjNZRAbK2YKco1MfRID8qp6Ao8=
+"@vuepress/plugin-back-to-top@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.npm.taobao.org/@vuepress/plugin-back-to-top/download/@vuepress/plugin-back-to-top-1.0.3.tgz#f10eb97a85781b044803ae96aceb5006cc6075b0"
+  integrity sha1-8Q65eoV4GwRIA66WrOtQBsxgdbA=
   dependencies:
     lodash.debounce "^4.0.8"
 
@@ -970,19 +963,12 @@
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@^1.0.0-alpha.42":
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/plugin-medium-zoom/download/@vuepress/plugin-medium-zoom-1.0.2.tgz#31f82f7ec48b55f06890081e0edf7b6519be0dca"
-  integrity sha1-MfgvfsSLVfBokAgeDt97ZRm+Dco=
+"@vuepress/plugin-medium-zoom@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.npm.taobao.org/@vuepress/plugin-medium-zoom/download/@vuepress/plugin-medium-zoom-1.0.3.tgz#d87975b5ba9ee4effa1c8fb223781726dfc683f2"
+  integrity sha1-2Hl1tbqe5O/6HI+yI3gXJt/Gg/I=
   dependencies:
     medium-zoom "^1.0.4"
-
-"@vuepress/plugin-nprogress@^1.0.0-alpha.42":
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/plugin-nprogress/download/@vuepress/plugin-nprogress-1.0.2.tgz#3fae13c8af23292cf324d159c77e4d0ffc3133ab"
-  integrity sha1-P64TyK8jKSzzJNFZx35ND/wxM6s=
-  dependencies:
-    nprogress "^0.2.0"
 
 "@vuepress/plugin-nprogress@^1.0.3":
   version "1.0.3"
@@ -991,12 +977,12 @@
   dependencies:
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@^1.0.0-alpha.42":
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/plugin-pwa/download/@vuepress/plugin-pwa-1.0.2.tgz#af37e2e1b3b29382a4daf8c2e350059b769dd3cb"
-  integrity sha1-rzfi4bOyk4Kk2vjC41AFm3ad08s=
+"@vuepress/plugin-pwa@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.npm.taobao.org/@vuepress/plugin-pwa/download/@vuepress/plugin-pwa-1.0.3.tgz#4cf668fcf49a5875bbee2307695277d5adea78d3"
+  integrity sha1-TPZo/PSaWHW77iMHaVJ31a3qeNM=
   dependencies:
-    "@vuepress/shared-utils" "^1.0.2"
+    "@vuepress/shared-utils" "^1.0.3"
     register-service-worker "^1.5.2"
     workbox-build "^4.3.1"
 
@@ -1011,21 +997,6 @@
   version "1.0.3"
   resolved "https://registry.npm.taobao.org/@vuepress/plugin-search/download/@vuepress/plugin-search-1.0.3.tgz#f8cd98380cc00db067fb243e4fd298c6b8b7179a"
   integrity sha1-+M2YOAzADbBn+yQ+T9KYxri3F5o=
-
-"@vuepress/shared-utils@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/@vuepress/shared-utils/download/@vuepress/shared-utils-1.0.2.tgz#4e1342748b7594fe4fde9dce3bf201538fa5ca67"
-  integrity sha1-ThNCdIt1lP5P3p3OO/IBU4+lymc=
-  dependencies:
-    chalk "^2.3.2"
-    diacritics "^1.3.0"
-    escape-html "^1.0.3"
-    fs-extra "^7.0.1"
-    globby "^9.2.0"
-    gray-matter "^4.0.1"
-    hash-sum "^1.0.2"
-    semver "^6.0.0"
-    upath "^1.1.0"
 
 "@vuepress/shared-utils@^1.0.3":
   version "1.0.3"
@@ -3475,10 +3446,10 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-gh-pages@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.npm.taobao.org/gh-pages/download/gh-pages-2.0.1.tgz#aefe47a43b8d9d2aa3130576b33fe95641e29a2f"
-  integrity sha1-rv5HpDuNnSqjEwV2sz/pVkHimi8=
+gh-pages@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.npm.taobao.org/gh-pages/download/gh-pages-2.1.1.tgz#5be70a92f9cb70404bafabd8bb149c0e9a8c264b"
+  integrity sha1-W+cKkvnLcEBLr6vYuxScDpqMJks=
   dependencies:
     async "^2.6.1"
     commander "^2.18.0"
@@ -4765,10 +4736,21 @@ markdown-it-table-of-contents@^0.4.0:
   resolved "https://registry.npm.taobao.org/markdown-it-table-of-contents/download/markdown-it-table-of-contents-0.4.4.tgz#3dc7ce8b8fc17e5981c77cc398d1782319f37fbc"
   integrity sha1-PcfOi4/BflmBx3zDmNF4Ixnzf7w=
 
-markdown-it@^8.4.1, markdown-it@^8.4.2:
+markdown-it@^8.4.1:
   version "8.4.2"
   resolved "https://registry.npm.taobao.org/markdown-it/download/markdown-it-8.4.2.tgz#386f98998dc15a37722aa7722084f4020bdd9b54"
   integrity sha1-OG+YmY3BWjdyKqdyIIT0Agvdm1Q=
+  dependencies:
+    argparse "^1.0.7"
+    entities "~1.1.1"
+    linkify-it "^2.0.0"
+    mdurl "^1.0.1"
+    uc.micro "^1.0.5"
+
+markdown-it@^9.1.0:
+  version "9.1.0"
+  resolved "https://registry.npm.taobao.org/markdown-it/download/markdown-it-9.1.0.tgz#df9601c168568704d554b1fff9af0c5b561168d9"
+  integrity sha1-35YBwWhWhwTVVLH/+a8MW1YRaNk=
   dependencies:
     argparse "^1.0.7"
     entities "~1.1.1"
