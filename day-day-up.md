@@ -3,7 +3,26 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
-## 09-08-91
+## 09-08-21
+- Carbon [https://carbon.now.sh/](https://carbon.now.sh/) 漂亮的图片图片生成器
+- SVGA [http://svga.io/index.html](http://svga.io/index.html) SVGA 是一种同时兼容 iOS / Android / Web 多个平台的动画格式
+- Lottie [https://airbnb.design/lottie/](https://airbnb.design/lottie/) 跨端的动画快速生成解决方案 Lottie中文文档 · 语雀 [https://www.yuque.com/lottie/document](https://www.yuque.com/lottie/document)
+- 蚂蚁设计服务平台 - 犸良 [https://design.alipay.com/emotion](https://design.alipay.com/emotion)
+
+## 09-08-20
+- React - All Posts [https://reactjs.org/blog/all.html](https://reactjs.org/blog/all.html) React 相关的功能点更新日志
+- TypeScript 3.5 · TypeScript [https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-5.html](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-5.html)
+- sdk/CHANGELOG.md at master · dart-lang/sdk [https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md](https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md) dart 更新日志
+- Flutter – Medium [https://medium.com/flutter](https://medium.com/flutter) flutter 功能点更新日志
+- taro/CHANGELOG.md at master · NervJS/taro [https://github.com/NervJS/taro/blob/master/CHANGELOG.md](https://github.com/NervJS/taro/blob/master/CHANGELOG.md) Taro 更新日志
+- ice/CHANGELOG.md at master · alibaba/ice [https://github.com/alibaba/ice/blob/master/CHANGELOG.md](https://github.com/alibaba/ice/blob/master/CHANGELOG.md) 飞冰的更新日志
+- Blog | Next.js [https://nextjs.org/blog](https://nextjs.org/blog) Next.js 更新日志
+- Change Log - Ant Design [https://ant.design/changelog](https://ant.design/changelog)
+- 以往的版本 | Node.js [https://nodejs.org/zh-cn/download/releases/](https://nodejs.org/zh-cn/download/releases/) Node.js 更新日志中文
+- Previous Releases | Node.js [https://nodejs.org/en/download/releases/](https://nodejs.org/en/download/releases/) Node.js 更新日志英文
+- 🎼webpack 4: released today!!✨ - webpack - Medium [https://medium.com/webpack/webpack-4-released-today-6cdb994702d4](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4)
+
+## 09-08-19
 - JSON to TypeScript • quicktype [https://quicktype.io/typescript/](https://quicktype.io/typescript/) 支持多语言的声明文件生成
 - TypeScript, Dart - Hyperpolyglot [http://hyperpolyglot.org/web](http://hyperpolyglot.org/web) TypeScript 和 Dart 语法对比
 - JSON Schema | The home of JSON Schema [https://json-schema.org/](https://json-schema.org/) 
