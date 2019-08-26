@@ -3,6 +3,35 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
+## 09-08-25
+
+
+## 09-08-24
+- create-react-app/CHANGELOG.md at master · facebook/create-react-app [https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md) 3.1.x 更好的支持 eslint6
+- vue-cli/CHANGELOG.md at dev · vuejs/vue-cli [https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md) 文档地址 Vue CLI [https://next.cli.vuejs.org/zh/](https://next.cli.vuejs.org/zh/)
+- jieyou/remote_inspect_web_on_real_device: 各种真机远程调试方法汇总——“真机远程调试”（remote inspect web on real device），是指用桌面电脑（PC或MAC）远程连接上移动设备，通过类似Chrome浏览器开发人员工具的界面，来调试移动设备上运行的网页 [https://github.com/jieyou/remote_inspect_web_on_real_device](https://github.com/jieyou/remote_inspect_web_on_real_device)
+- alibaba/flutter-go: flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 [https://github.com/alibaba/flutter-go](https://github.com/alibaba/flutter-go)
+- ruanyf/free-books: 互联网上的免费书籍 [https://github.com/ruanyf/free-books](https://github.com/ruanyf/free-books)
+- zhaoqize/puppeteer-api-zh_CN: 📖 Puppeteer中文文档（官方指定的中文文档） [https://github.com/zhaoqize/puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)
+- react-hook-form/react-hook-form: 📋 React hooks for form validation without the hassle [https://github.com/react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+
+## 09-08-23
+- nvbn/thefuck: Magnificent app which corrects your previous console command. [https://github.com/nvbn/thefuck](https://github.com/nvbn/thefuck) 自动纠正你的终端命令。同事推荐的 `brew install thefuck`
+- ImageOptim — better Save for Web [https://imageoptim.com/mac](https://imageoptim.com/mac)
+- TinyPNG – Compress PNG images while preserving transparency [https://tinypng.com/](https://tinypng.com/) 比较不错的图片压缩工具，要上传资源并下载
+- kyleduo/TinyPNG4Mac: TinyPNG client for Mac [https://github.com/kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) 
+- pngquant — lossy PNG compressor [https://pngquant.org/](https://pngquant.org/)
+- Gifox for Mac – Delightful GIF Recording and Sharing App [https://gifox.io/](https://gifox.io/) 屏幕录制工具，支持区域录制
+
+
+## 09-08-22
+- 命令行的艺术 the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line [https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
+- Vim cheatsheet [https://devhints.io/vim](https://devhints.io/vim) devhints 有很多其他的 cheatsheet
+- skywind3000/awesome-cheatsheets: 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 [https://github.com/skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
+- LeCoupa/awesome-cheatsheets: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. [https://github.com/LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) 浓缩就是精华
+- detailyang/awesome-cheatsheet: awesome cheatsheet [https://github.com/detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- TypeScript cheatsheet [https://devhints.io/typescript](https://devhints.io/typescript)
+
 ## 09-08-21
 - Carbon [https://carbon.now.sh/](https://carbon.now.sh/) 漂亮的图片图片生成器
 - SVGA [http://svga.io/index.html](http://svga.io/index.html) SVGA 是一种同时兼容 iOS / Android / Web 多个平台的动画格式
@@ -10,6 +39,9 @@
 - 蚂蚁设计服务平台 - 犸良 [https://design.alipay.com/emotion](https://design.alipay.com/emotion)
 
 ## 09-08-20
+
+> 前端值得关注的框架功能点更新
+
 - React - All Posts [https://reactjs.org/blog/all.html](https://reactjs.org/blog/all.html) React 相关的功能点更新日志
 - TypeScript 3.5 · TypeScript [https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-5.html](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-5.html)
 - sdk/CHANGELOG.md at master · dart-lang/sdk [https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md](https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md) dart 更新日志
@@ -21,6 +53,7 @@
 - 以往的版本 | Node.js [https://nodejs.org/zh-cn/download/releases/](https://nodejs.org/zh-cn/download/releases/) Node.js 更新日志中文
 - Previous Releases | Node.js [https://nodejs.org/en/download/releases/](https://nodejs.org/en/download/releases/) Node.js 更新日志英文
 - 🎼webpack 4: released today!!✨ - webpack - Medium [https://medium.com/webpack/webpack-4-released-today-6cdb994702d4](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4)
+- Dart Cheat Sheet [Core] [http://dartlangfr.github.io/dart-cheat-sheet/core.html](http://dartlangfr.github.io/dart-cheat-sheet/core.html)
 
 ## 09-08-19
 - JSON to TypeScript • quicktype [https://quicktype.io/typescript/](https://quicktype.io/typescript/) 支持多语言的声明文件生成
