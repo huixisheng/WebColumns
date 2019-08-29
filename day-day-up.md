@@ -3,8 +3,50 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
+## 09-08-28
+
+> 高清图片下载网站
+
+- Free stock photos · Pexels [https://www.pexels.com/](https://www.pexels.com/)
+- Free Stock Photos & Images • picjumbo [https://picjumbo.com/](https://picjumbo.com/)
+- Hand-picked free photos for your inspiration - Magdeleine [https://magdeleine.co/](https://magdeleine.co/)
+- 1 million+ Stunning Free Images to Use Anywhere - Pixabay [https://pixabay.com/](https://pixabay.com/)
+- 沙沙野-让作品遇见全世界 [https://www.ssyer.com/](https://www.ssyer.com/)
+- Free high resolution photography - Life of Pix - Home [https://www.lifeofpix.com/](https://www.lifeofpix.com/)
+- Beautiful Free Images & Pictures | Unsplash [https://unsplash.com/](https://unsplash.com/)
+- Gratisography - Free High-Resolution Photos [https://gratisography.com/](https://gratisography.com/)
+- Discover and share the world's best photos / 500px [https://web.500px.com/](https://web.500px.com/)
+
+
+## 09-08-27
+- GitHub - liyasthomas/postwoman: 👽 API request builder - Helps you create your requests faster, saving you precious time on your development. [https://github.com/liyasthomas/postwoman](https://github.com/liyasthomas/postwoman)
+- 2019TLC大会精彩回顾—大前端·信息流 - 掘金 [https://juejin.im/post/5d5e37a551882513cb48fb38](https://juejin.im/post/5d5e37a551882513cb48fb38)
+
+## 09-08-26
+
+> 快速更新项目的依赖包的版本号
+
+- npm-check-updates - npm [https://www.npmjs.com/package/npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
+- npm-check - npm [https://www.npmjs.com/package/npm-check](https://www.npmjs.com/package/npm-check)
+- npm-outdated | npm Documentation [https://docs.npmjs.com/cli/outdated.html](https://docs.npmjs.com/cli/outdated.html) `npm install $(npm outdated | cut -d' ' -f 1 | xargs -I '$' echo '$@latest' | xargs echo)`
+- yarn outdated | Yarn [https://yarnpkg.com/lang/en/docs/cli/outdated/](https://yarnpkg.com/lang/en/docs/cli/outdated/) yarn upgrade-interactive | Yarn [https://yarnpkg.com/en/docs/cli/upgrade-interactive](https://yarnpkg.com/en/docs/cli/upgrade-interactive)
+- Version Lens - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) 会显示当前包是否有更新，点击就可快速升级
+
 ## 09-08-25
 
+> 前端在线测试工具
+
+- ECMAScript 6 compatibility table [https://kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
+- Node.js ES2015/ES6, ES2016 and ES2017 support [https://node.green/](https://node.green/)
+- ECMAScript® 2020 Language Specification [https://tc39.es/ecma262/](https://tc39.es/ecma262/)
+- ruanyf/es-checker: A feature detection library for ECMAScript in node.js and browser. [https://github.com/ruanyf/es-checker](https://github.com/ruanyf/es-checker)  How Much of ECMAScript 6 Does Your Browser Support? - ES-Checker [http://ruanyf.github.io/es-checker/](http://ruanyf.github.io/es-checker/)
+- The CSS3 Test [https://css3test.com/](https://css3test.com/)
+- HTML5test - How well does your browser support HTML5? [https://html5test.com/](https://html5test.com/)
+- Can I use... Support tables for HTML5, CSS3, etc [https://caniuse.com/](https://caniuse.com/)
+- Mobile HTML5 compatibility on iPhone, Android, Windows Phone, BlackBerry, Firefox OS and other mobile devices [http://mobilehtml5.org/](http://mobilehtml5.org/)
+- Modernizr Documentation [https://modernizr.com/docs](https://modernizr.com/docs) Respond to your user’s browser features
+- browserl.ist: A page to display compatible browsers from a browserslist string. [https://browserl.ist/](https://browserl.ist/)
+- Mobile HTML5 test suite [https://mobilehtml5.org/ts/](https://mobilehtml5.org/ts/)
 
 ## 09-08-24
 - create-react-app/CHANGELOG.md at master · facebook/create-react-app [https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md) 3.1.x 更好的支持 eslint6
