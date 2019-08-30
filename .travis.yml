@@ -1,0 +1,24 @@
+sudo: required
+language: node_js
+node_js:
+- 6.0.0
+branches:
+  only:
+  - master
+before_install:
+- openssl aes-256-cbc -K $encrypted_c0161974e040_key -iv $encrypted_c0161974e040_iv
+  -in github-ci.enc -out ~/.ssh/github-ci -d
+- chmod 0600 ~/.ssh/id_rsa
+- cp .travis/ssh_config ~/.ssh/config
+- sudo cp .travis/ssh_config /etc/ssh/ssh_config
+- sudo chmod 755 /etc/ssh/ssh_config
+- eval "$(ssh-agent -s)"
+- ssh-add ~/.ssh/id_rsa
+- git config --global user.name "huixisheng"
+- git config --global user.email "469184346@qq.com"
+install:
+- npm install
+script:
+- npm run deploy
+after_success: 
+addons: ssh_known_hosts - github.com - ssh.github.com
