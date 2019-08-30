@@ -3,6 +3,33 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
+## 代码提交规范
+- 约定式提交 [https://www.conventionalcommits.org/zh/v1.0.0-beta.4/](https://www.conventionalcommits.org/zh/v1.0.0-beta.4/)
+
+## 正则表达式
+- any86/any-rule: 常用正则大全, 支持vscode扩展插件 [https://github.com/any86/any-rule](https://github.com/any86/any-rule)
+- 正则大全 [https://any86.github.io/any-rule/](https://any86.github.io/any-rule/)
+- learn-regex/README-cn.md at master · ziishaned/learn-regex [https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) 学习正则基本资料
+- 正则表达式简明教程 - 掘金 [https://juejin.im/post/5d2dfd48e51d45772a49adf4](https://juejin.im/post/5d2dfd48e51d45772a49adf4)
+- qdlaoyao/js-regex-mini-book [https://github.com/qdlaoyao/js-regex-mini-book](https://github.com/qdlaoyao/js-regex-mini-book) JavaScript正则表达式迷你书（1.1版） JS正则表达式完整教程（略长） - 掘金 [https://juejin.im/post/5965943ff265da6c30653879](https://juejin.im/post/5965943ff265da6c30653879)
+- 【收藏】常用JavaScript正则表达式汇编与示例 - 掘金 [https://juejin.im/post/5cc2c1a3e51d456e31164a3c](https://juejin.im/post/5cc2c1a3e51d456e31164a3c)
+- ChinaMobilePhoneNumberRegex/README-CN.md at master · VincentSit/ChinaMobilePhoneNumberRegex [https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md) 一组匹配中国大陆手机号码的正则表达式
+- [JavaScript学习总结（八）正则表达式 - trigkit4 - SegmentFault 思否](https://segmentfault.com/a/1190000000699097#articleHeader7)
+- [JavaScript正则，看这篇就够了 - 掘金](https://juejin.im/post/5acb4d3f6fb9a028c813295e)
+- [javascript正则表达式 - 司徒正美 - 博客园](https://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html)
+- [JavaScript正则进阶之路——活学妙用奇淫正则表达式 · Issue #20 · jawil/blog](https://github.com/jawil/blog/issues/20)
+- [JavaScript正则表达式进阶指南 | Fundebug博客](https://blog.fundebug.com/2018/05/02/advanced_regular_expression/)
+- [正则表达式回溯法原理 - 知乎](https://zhuanlan.zhihu.com/p/27417442)
+- [正则表达式的性能优化 | 心辰·Dev](http://edwardbx.github.io/2015/01/28/regex-optimi/)
+- [改进正则表达式的性能 - 简书](https://www.jianshu.com/p/bbf3c382fd30)
+
+> 正则表达式工具
+- Rubular: 快速验证正则表达式是否正则，有常用表达式列表 [https://rubular.com/r/xfQHocREGj](https://rubular.com/r/xfQHocREGj)
+- Regulex：JavaScript Regular Expression Visualizer [https://jex.im/regulex/#!flags=&re=%5E%28a%7Cb%29*%3F%24](https://jex.im/regulex/#!flags=&re=%5E%28a%7Cb%29*%3F%24) 正则表达式图表分析
+- Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript [https://regex101.com/](https://regex101.com/)
+- Regexper [https://regexper.com/](https://regexper.com/)
+
+
 ## 09-08-28
 
 > 高清图片下载网站
