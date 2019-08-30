@@ -1,24 +1,32 @@
-sudo: required
 language: node_js
 node_js:
 - 10.16.0
 branches:
   only:
   - master
+  - gh-pages
 before_install:
 - openssl aes-256-cbc -K $encrypted_c0161974e040_key -iv $encrypted_c0161974e040_iv
-  -in github-ci.enc -out ~/.ssh/id_rsa -d
-- chmod 0600 ~/.ssh/id_rsa
+  -in id_rsa.enc -out ~/.ssh/github-ci_rsa -d
+- chmod 0600 ~/.ssh/github-ci_rsa
 - cp .travis/ssh_config ~/.ssh/config
 - sudo cp .travis/ssh_config /etc/ssh/ssh_config
 - sudo chmod 755 /etc/ssh/ssh_config
 - eval "$(ssh-agent -s)"
-- ssh-add ~/.ssh/id_rsa
+- ssh-add ~/.ssh/github-ci_rsa
+- ssh-keygen -F github.com
 - git config --global user.name "huixisheng"
 - git config --global user.email "469184346@qq.com"
 install:
 - npm install
 script:
+- git remote -v
+- ls
+- git branch -a 
+- git remote set-url origin git@github.com:huixisheng/WebColumns.git 
 - npm run deploy
 after_success: 
-addons: ssh_known_hosts - github.com - ssh.github.com
+addons: 
+  ssh_known_hosts 
+  - github.com 
+  - ssh.github.com
