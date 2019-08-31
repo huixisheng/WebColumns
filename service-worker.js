@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "79f5dce4e24587948d334e5685aa78fa"
+    "revision": "937c117153988c29b92cb7709019a59f"
   },
   {
     "url": "assets/css/0.styles.56ee18f9.css",
@@ -90,44 +90,44 @@ self.__precacheManifest = [
     "revision": "5dc8b21e5f49235413dab1ef1a98549b"
   },
   {
-    "url": "assets/js/app.97eb1889.js",
-    "revision": "d536eaf35719629c3033fdac1e0913ef"
+    "url": "assets/js/app.4fde012a.js",
+    "revision": "fa8c61b13583b9f6c539d4fea0c3f2bc"
   },
   {
     "url": "day-day-up.html",
-    "revision": "964d3782a060e98a31baac68eb340392"
+    "revision": "99481083e9af376b9230097c9f51fd88"
   },
   {
     "url": "index.html",
-    "revision": "5c0a788be14edd748626f4df13153dbe"
+    "revision": "5a8f7e7920f9b517b55b75541bfee72b"
   },
   {
     "url": "resources/flutter/flutter.html",
-    "revision": "0ceabe3386996b982207362ba0e8986a"
+    "revision": "cba758a3edaf9a997358a2447807d1d9"
   },
   {
     "url": "resources/node-library/index.html",
-    "revision": "b2804c3382c8ccba0d7b15d66ce41bbc"
+    "revision": "d91d8d45283ffef543bc6fbb7e6999a1"
   },
   {
     "url": "resources/node/index.html",
-    "revision": "740c1e7d05aacdcbf3e5c3abd372b2a0"
+    "revision": "b836175881698b9f6a67b954cdf40753"
   },
   {
     "url": "resources/security/index.html",
-    "revision": "34fff786fd5d41f563065904b531fe6b"
+    "revision": "cca2c532fbe73639dc33ad7c0acea956"
   },
   {
     "url": "resources/typescript/index.html",
-    "revision": "167b5baac31091f816ef4019bf87dd78"
+    "revision": "c9d7d0bc4fd74b8f3c042cb37aebcacf"
   },
   {
     "url": "resources/utils/index.html",
-    "revision": "ee9e2cb7138e0111cbb6fdd979347a0b"
+    "revision": "21ed86a81354c45a0496f50e50839605"
   },
   {
     "url": "scripts/template.html",
-    "revision": "32b79038c4f93afbec0bdeb5be4ab113"
+    "revision": "1c82396c2248ffa05e746e74d90c5e88"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
