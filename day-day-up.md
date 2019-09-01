@@ -3,6 +3,16 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
+## 镜像
+- RubyGems 镜像 - Ruby China [https://gems.ruby-china.com/](https://gems.ruby-china.com/)
+
+## CI & CD
+- Travis CI User Documentation [https://docs.travis-ci.com/](https://docs.travis-ci.com/)
+- Continuous Integration and Delivery - CircleCI [https://circleci.com/](https://circleci.com/)
+- GitLab CI/CD | GitLab [https://docs.gitlab.com/ee/ci/](https://docs.gitlab.com/ee/ci/) gitlab-ci-cn/quick_start.md gitlab-ci官方文档翻译  [https://github.com/Fennay/gitlab-ci-cn/blob/master/quick_start.md](https://github.com/Fennay/gitlab-ci-cn/blob/master/quick_start.md)
+- 横向对比 Gitea 与其它 Git 托管工具 - Docs [https://docs.gitea.io/zh-cn/comparison/](https://docs.gitea.io/zh-cn/comparison/)
+- Jenkins [https://jenkins.io/zh/](https://jenkins.io/zh/)
+
 ## 代码提交规范
 - 约定式提交 [https://www.conventionalcommits.org/zh/v1.0.0-beta.4/](https://www.conventionalcommits.org/zh/v1.0.0-beta.4/)
 
