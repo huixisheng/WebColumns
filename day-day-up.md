@@ -3,6 +3,18 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
+## Node静态服务
+- anywhere - npm [https://www.npmjs.com/package/anywhere](https://www.npmjs.com/package/anywhere)
+
+## 资源
+- fighting41love/funNLP: 词库 [https://github.com/fighting41love/funNLP](https://github.com/fighting41love/funNLP)
+- ss7247/china_Idioms: 可能是目前最全的中国成语库 [https://github.com/ss7247/china_Idioms](https://github.com/ss7247/china_Idioms)
+- mahavivo/english-wordlists: 常用英语词汇表 [https://github.com/mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists)
+- didi/DoraemonKit: 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 [https://github.com/didi/DoraemonKit](https://github.com/didi/DoraemonKit)
+- aalansehaiyang/technology-talk: 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识 [https://github.com/aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk)
+- ruanyf/free-books: 互联网上的免费书籍 [https://github.com/ruanyf/free-books](https://github.com/ruanyf/free-books)
+- ayuLiao/AutoPublish: 简单易用的文章多平台发布工具 [https://github.com/ayuLiao/AutoPublish](https://github.com/ayuLiao/AutoPublish)
+
 ## 镜像
 - RubyGems 镜像 - Ruby China [https://gems.ruby-china.com/](https://gems.ruby-china.com/)
 - 阿里巴巴开源镜像站 [https://opsx.alibaba.com/mirror](https://opsx.alibaba.com/mirror) 试用了下感觉效果还不错
