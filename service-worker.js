@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9c806beada022ec8f71fc9176f3cd790"
+    "revision": "b55f7d1bf1f27d6d60eed2c32fee84b3"
   },
   {
     "url": "assets/css/0.styles.56ee18f9.css",
@@ -74,8 +74,8 @@ self.__precacheManifest = [
     "revision": "9cb5dfa824ea5202c9d7cfa29fed4d9b"
   },
   {
-    "url": "assets/js/6.858e6233.js",
-    "revision": "1a9fd8eff445f6bf686be52011e8bc02"
+    "url": "assets/js/6.3209fe19.js",
+    "revision": "90f9d1cf81e5542d12dac0a4fd56268b"
   },
   {
     "url": "assets/js/7.899aff7c.js",
@@ -90,44 +90,44 @@ self.__precacheManifest = [
     "revision": "5dc8b21e5f49235413dab1ef1a98549b"
   },
   {
-    "url": "assets/js/app.65b2ee42.js",
-    "revision": "b9810f866e4d43101e409d63bd68c13f"
+    "url": "assets/js/app.72a6250b.js",
+    "revision": "bdc50c6aab28fca77d3d00fbf6c733c5"
   },
   {
     "url": "day-day-up.html",
-    "revision": "fcc90dd0dccca25f53166c15fdff61d4"
+    "revision": "7916f8f723ce0086eee4e29a081685cd"
   },
   {
     "url": "index.html",
-    "revision": "19a21e166980605d3e8da19999321970"
+    "revision": "42ce2322a38fc8275328fbcc72c7a3da"
   },
   {
     "url": "resources/flutter/flutter.html",
-    "revision": "ee003742921afdc8942b91e54d028067"
+    "revision": "bf2e0486ba1724790a4e77f35b69c3be"
   },
   {
     "url": "resources/node-library/index.html",
-    "revision": "8e7eaf367fc2df9891e4dcb33c342294"
+    "revision": "9f89dd5def2c3d35849695dd23b2bdbc"
   },
   {
     "url": "resources/node/index.html",
-    "revision": "6fee2c10d276bdec3d723d36e8c6f13b"
+    "revision": "c1c8c65fb273659e65e26e62bbbf55e7"
   },
   {
     "url": "resources/security/index.html",
-    "revision": "ccd43f9645db6913c73a512bc7ee0974"
+    "revision": "cb0d6744a74b6235b77af6af8a283145"
   },
   {
     "url": "resources/typescript/index.html",
-    "revision": "b304a0729f211d9dfff00a7874c17949"
+    "revision": "b0ad14fcb6bef2ddb43adb880d791971"
   },
   {
     "url": "resources/utils/index.html",
-    "revision": "2fae943df123147ecff79846d6fbd30b"
+    "revision": "4417eec6f75d9321edd84ad1a6f7779b"
   },
   {
     "url": "scripts/template.html",
-    "revision": "bf031cbdeced82d1ec037f537d72768d"
+    "revision": "21dd7a58e6fc1531b20d7e2a9f405e4d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
