@@ -3,11 +3,27 @@
 
 > 整理每天发现有意思、好玩、好用的资源，每天效率提升一点点
 
+## VScode 插件
+
+> 平时工作中觉得比较好的插件推荐
+
+- Home | TabNine [https://tabnine.com/](https://tabnine.com/) TabNine uses deep learning to help you write code faster.
+- Code Spell Checker
+- Codelf - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=unbug.codelf](https://marketplace.visualstudio.com/items?itemName=unbug.codelf)
+- GitLens — Git supercharged - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- Better Comments - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- Dart - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+- EditorConfig for VS Code - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- Paste JSON as Code - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- GitLens — Git supercharged - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- Git Graph - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
 ## Node静态服务
 - anywhere - npm [https://www.npmjs.com/package/anywhere](https://www.npmjs.com/package/anywhere)
 
 ## 资源
-- fighting41love/funNLP: 词库 [https://github.com/fighting41love/funNLP](https://github.com/fighting41love/funNLP)
+- fight
+- ing41love/funNLP: 词库 [https://github.com/fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 - ss7247/china_Idioms: 可能是目前最全的中国成语库 [https://github.com/ss7247/china_Idioms](https://github.com/ss7247/china_Idioms)
 - mahavivo/english-wordlists: 常用英语词汇表 [https://github.com/mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists)
 - didi/DoraemonKit: 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 [https://github.com/didi/DoraemonKit](https://github.com/didi/DoraemonKit)
@@ -59,7 +75,7 @@
 - Regexper [https://regexper.com/](https://regexper.com/)
 
 
-## 09-08-28
+## 19-08-28
 
 > 高清图片下载网站
 
@@ -74,11 +90,11 @@
 - Discover and share the world's best photos / 500px [https://web.500px.com/](https://web.500px.com/)
 
 
-## 09-08-27
+## 19-08-27
 - GitHub - liyasthomas/postwoman: 👽 API request builder - Helps you create your requests faster, saving you precious time on your development. [https://github.com/liyasthomas/postwoman](https://github.com/liyasthomas/postwoman)
 - 2019TLC大会精彩回顾—大前端·信息流 - 掘金 [https://juejin.im/post/5d5e37a551882513cb48fb38](https://juejin.im/post/5d5e37a551882513cb48fb38)
 
-## 09-08-26
+## 19-08-26
 
 > 快速更新项目的依赖包的版本号
 
@@ -88,7 +104,7 @@
 - yarn outdated | Yarn [https://yarnpkg.com/lang/en/docs/cli/outdated/](https://yarnpkg.com/lang/en/docs/cli/outdated/) yarn upgrade-interactive | Yarn [https://yarnpkg.com/en/docs/cli/upgrade-interactive](https://yarnpkg.com/en/docs/cli/upgrade-interactive)
 - Version Lens - Visual Studio Marketplace [https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) 会显示当前包是否有更新，点击就可快速升级
 
-## 09-08-25
+## 19-08-25
 
 > 前端在线测试工具
 
@@ -104,7 +120,7 @@
 - browserl.ist: A page to display compatible browsers from a browserslist string. [https://browserl.ist/](https://browserl.ist/)
 - Mobile HTML5 test suite [https://mobilehtml5.org/ts/](https://mobilehtml5.org/ts/)
 
-## 09-08-24
+## 19-08-24
 - create-react-app/CHANGELOG.md at master · facebook/create-react-app [https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md) 3.1.x 更好的支持 eslint6
 - vue-cli/CHANGELOG.md at dev · vuejs/vue-cli [https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md](https://github.com/vuejs/vue-cli/blob/dev/CHANGELOG.md) 文档地址 Vue CLI [https://next.cli.vuejs.org/zh/](https://next.cli.vuejs.org/zh/)
 - jieyou/remote_inspect_web_on_real_device: 各种真机远程调试方法汇总——“真机远程调试”（remote inspect web on real device），是指用桌面电脑（PC或MAC）远程连接上移动设备，通过类似Chrome浏览器开发人员工具的界面，来调试移动设备上运行的网页 [https://github.com/jieyou/remote_inspect_web_on_real_device](https://github.com/jieyou/remote_inspect_web_on_real_device)
@@ -113,7 +129,7 @@
 - zhaoqize/puppeteer-api-zh_CN: 📖 Puppeteer中文文档（官方指定的中文文档） [https://github.com/zhaoqize/puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)
 - react-hook-form/react-hook-form: 📋 React hooks for form validation without the hassle [https://github.com/react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
 
-## 09-08-23
+## 19-08-23
 - nvbn/thefuck: Magnificent app which corrects your previous console command. [https://github.com/nvbn/thefuck](https://github.com/nvbn/thefuck) 自动纠正你的终端命令。同事推荐的 `brew install thefuck`
 - ImageOptim — better Save for Web [https://imageoptim.com/mac](https://imageoptim.com/mac)
 - TinyPNG – Compress PNG images while preserving transparency [https://tinypng.com/](https://tinypng.com/) 比较不错的图片压缩工具，要上传资源并下载
@@ -122,7 +138,7 @@
 - Gifox for Mac – Delightful GIF Recording and Sharing App [https://gifox.io/](https://gifox.io/) 屏幕录制工具，支持区域录制
 
 
-## 09-08-22
+## 19-08-22
 - 命令行的艺术 the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line [https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
 - Vim cheatsheet [https://devhints.io/vim](https://devhints.io/vim) devhints 有很多其他的 cheatsheet
 - skywind3000/awesome-cheatsheets: 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 [https://github.com/skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
@@ -130,13 +146,13 @@
 - detailyang/awesome-cheatsheet: awesome cheatsheet [https://github.com/detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - TypeScript cheatsheet [https://devhints.io/typescript](https://devhints.io/typescript)
 
-## 09-08-21
+## 19-08-21
 - Carbon [https://carbon.now.sh/](https://carbon.now.sh/) 漂亮的图片图片生成器
 - SVGA [http://svga.io/index.html](http://svga.io/index.html) SVGA 是一种同时兼容 iOS / Android / Web 多个平台的动画格式
 - Lottie [https://airbnb.design/lottie/](https://airbnb.design/lottie/) 跨端的动画快速生成解决方案 Lottie中文文档 · 语雀 [https://www.yuque.com/lottie/document](https://www.yuque.com/lottie/document)
 - 蚂蚁设计服务平台 - 犸良 [https://design.alipay.com/emotion](https://design.alipay.com/emotion)
 
-## 09-08-20
+## 19-08-20
 
 > 前端值得关注的框架功能点更新
 
@@ -153,7 +169,7 @@
 - 🎼webpack 4: released today!!✨ - webpack - Medium [https://medium.com/webpack/webpack-4-released-today-6cdb994702d4](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4)
 - Dart Cheat Sheet [Core] [http://dartlangfr.github.io/dart-cheat-sheet/core.html](http://dartlangfr.github.io/dart-cheat-sheet/core.html)
 
-## 09-08-19
+## 19-08-19
 - JSON to TypeScript • quicktype [https://quicktype.io/typescript/](https://quicktype.io/typescript/) 支持多语言的声明文件生成
 - TypeScript, Dart - Hyperpolyglot [http://hyperpolyglot.org/web](http://hyperpolyglot.org/web) TypeScript 和 Dart 语法对比
 - JSON Schema | The home of JSON Schema [https://json-schema.org/](https://json-schema.org/) 
@@ -161,7 +177,7 @@
 - Ajv - Another JSON Schema Validator [https://ajv.js.org/](https://ajv.js.org/)
 - TypeORM - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. [https://typeorm.io/#/](https://typeorm.io/#/)
 
-## 09-08-18
+## 19-08-18
 - Rubular: 快速验证正则表达式是否正则，有常用表达式列表 [https://rubular.com/r/xfQHocREGj](https://rubular.com/r/xfQHocREGj)
 - Regulex：JavaScript Regular Expression Visualizer [https://jex.im/regulex/#!flags=&re=%5E%28a%7Cb%29*%3F%24](https://jex.im/regulex/#!flags=&re=%5E%28a%7Cb%29*%3F%24) 正则表达式图表分析
 - Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript [https://regex101.com/](https://regex101.com/)
@@ -169,7 +185,7 @@
 - Alfred 2 Workflow List | Search, Install and Share [http://alfredworkflow.com/](http://alfredworkflow.com/) 让小红帽飞起来
 - 阿里巴巴开源镜像站 [https://opsx.alibaba.com/mirror](https://opsx.alibaba.com/mirror) 试用了下感觉效果还不错
 
-## 09-08-17
+## 19-08-17
 - 图标工场 - 移动应用图标/启动图生成工具，一键生成所有尺寸的应用图标/启动图 [https://icon.wuruihong.com/](https://icon.wuruihong.com/) 用于生成简单的开屏引导图
 - robbyrussell/oh-my-zsh:  [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 应该是一个必备软件
 - wting/autojump: A cd command that learns - easily navigate directories from the command line [https://github.com/wting/autojump](https://github.com/wting/autojump) 快速跳转打开过的文件
@@ -178,11 +194,11 @@
 - ChinaMobilePhoneNumberRegex/README-CN.md at master · VincentSit/ChinaMobilePhoneNumberRegex [https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md) 手机号码匹配大全
 
 
-## 09-08-16
+## 19-08-16
 - git-aliases git 命令缩写，提升效率 [https://hschne.at/git-aliases/](https://hschne.at/git-aliases/)
 - gee1k/uPic: 不错图床工具 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS. [https://github.com/gee1k/uPic](https://github.com/gee1k/uPic)
 - crontab.guru 帮助你快速地写 cron the cron schedule expression editor [https://crontab.guru/](https://crontab.guru/)
 
-## 09-08-15
+## 19-08-15
 - httpie [https://httpie.org/](https://httpie.org/)  [https://devhints.io/httpie](https://devhints.io/httpie)。超棒的http命令行客户端
 - vscode 快捷键大全 [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
