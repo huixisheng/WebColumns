@@ -63,3 +63,15 @@ fse_binary_host_mirror="https://npm.taobao.org/mirrors/fsevents"
 - 安装依赖时遇到 `node-gyp` 权限的问题可以加上 `--unsafe-perm` 配置 gyp WARN EACCES user "root" does not have permission to access the dev dir "/root/.node-gyp/4.2.2" · Issue #405 · nfarina/homebridge [https://git.io/fjjy5](https://git.io/fjjy5)
 - NPM添加二进制文件镜像地址 – 奔霸 [https://www.runjf.com/nodejs/npm-add-binary-mirror](https://www.runjf.com/nodejs/npm-add-binary-mirror) `npm view node-pre-gyp`
 - 搭建 NPM Proxy 之预编译包 - WAYJAM [https://wayjam.me/post/internal-npm-proxy-prebuild-package.md](https://wayjam.me/post/internal-npm-proxy-prebuild-package.md)
+
+
+## 镜像资源
+
+- RubyGems 镜像 - Ruby China [https://gems.ruby-china.com/](https://gems.ruby-china.com/)
+- 阿里巴巴开源镜像站 [https://opsx.alibaba.com/mirror](https://opsx.alibaba.com/mirror) 试用了下感觉效果还不错
+- 欢迎访问网易开源镜像站 [http://mirrors.163.com/](http://mirrors.163.com/)
+- 清华大学开源软件镜像站 | Tsinghua Open Source Mirror [https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)
+- 华为开源镜像站_软件开发服务_华为云 [https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/)
+- 腾讯软件源 [https://mirrors.cloud.tencent.com/](https://mirrors.cloud.tencent.com/)
+- 国内开源镜像站点汇总 chinese-opensource-mirror-site: 国内开源镜像站点汇总 [https://gitee.com/gsls200808/chinese-opensource-mirror-site](https://gitee.com/gsls200808/chinese-opensource-mirror-site)
+- 国内镜像源整理 | 前端开发者说 [https://huixisheng.github.io/%2Fmirror%2F](https://huixisheng.github.io/%2Fmirror%2F)
