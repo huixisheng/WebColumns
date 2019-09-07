@@ -62,6 +62,7 @@ module.exports = {
         text: '前端',
         items: [
           { text: 'TypeScript', link: '/resources/typescript/' },
+          { text: '镜像全集', link: '/mirrors' },
         ]
       }
     ],
