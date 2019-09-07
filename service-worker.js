@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a1a80b3b4d4af5033262fdbfbe412f2b"
+    "revision": "85371f08f0a5e1f9ddbe85fa2424e263"
   },
   {
     "url": "assets/css/0.styles.56ee18f9.css",
@@ -74,16 +74,16 @@ self.__precacheManifest = [
     "revision": "8b2cdc25e09d86d0be13aa39cad6eaa4"
   },
   {
-    "url": "assets/js/5.49160dd6.js",
-    "revision": "fb2bd27b2e814cb9a8cf3c17ef37937f"
+    "url": "assets/js/5.afe068b4.js",
+    "revision": "b4b07eda94162d32077c4182024650e0"
   },
   {
-    "url": "assets/js/6.5a8edb7c.js",
-    "revision": "4cbebd77a0bfdc9fb0c0f608c850f31e"
+    "url": "assets/js/6.1e2f40bc.js",
+    "revision": "6e59dab2d4ed3f142d76ef5fe82c036f"
   },
   {
-    "url": "assets/js/7.9da20eb0.js",
-    "revision": "5bc02b8bc7eae6172cdb73e19c5dde0c"
+    "url": "assets/js/7.75fede8c.js",
+    "revision": "96330693e2b8d437fe2f76800aa60347"
   },
   {
     "url": "assets/js/8.00d3f27e.js",
@@ -94,48 +94,48 @@ self.__precacheManifest = [
     "revision": "35d42fdde4d7a502097025850129e0e8"
   },
   {
-    "url": "assets/js/app.ebda2aea.js",
-    "revision": "e3e94884e167983a0a0597d845bb9195"
+    "url": "assets/js/app.f5e56044.js",
+    "revision": "8f9951359285fdbba41dc47d62e18c3c"
   },
   {
     "url": "day-day-up.html",
-    "revision": "29531273a059b82c60cf4983385008d1"
+    "revision": "9b654813829fde2d744e07e03e1a8cd1"
   },
   {
     "url": "index.html",
-    "revision": "f8e528ac62ccaa64c4f27ddb38a12cc4"
+    "revision": "f5b638736b1cab3a199eef7bffe26621"
   },
   {
     "url": "mirrors.html",
-    "revision": "e8378bc120cc6b22e7020a728b4c0a0c"
+    "revision": "a0a8b7fadd05ce26a8ac34d55a5a65fa"
   },
   {
     "url": "resources/flutter/flutter.html",
-    "revision": "1e0f26d56cbaa929fb9cc0418a856631"
+    "revision": "a8cd0812d27c426bf5187eba42bbb664"
   },
   {
     "url": "resources/node-library/index.html",
-    "revision": "96a4a593022704a5af3cbc339490ce66"
+    "revision": "2915b7aacdb2a11ebfcbdcee723f9e46"
   },
   {
     "url": "resources/node/index.html",
-    "revision": "58ee881f4f158583cf8f531840768a81"
+    "revision": "65e5648b4d29a0b366965d816ffc18b3"
   },
   {
     "url": "resources/security/index.html",
-    "revision": "7d2db9648d804f8aa2862b432775bfa9"
+    "revision": "72b7cc0da96a2285385cef6c2488786b"
   },
   {
     "url": "resources/typescript/index.html",
-    "revision": "e77f1f33737647e4739e255a7b15c117"
+    "revision": "5e01670e9dda8aa0c5d824d59204fb84"
   },
   {
     "url": "resources/utils/index.html",
-    "revision": "2e4dc0388a10377441f8a64a58616924"
+    "revision": "cf3a04700eb7fe4496a06a356164f890"
   },
   {
     "url": "scripts/template.html",
-    "revision": "3e88ebd8b01ed611bedac8d10a6b1b63"
+    "revision": "88f1ab63159b3cb93c977fe759b24ef8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
