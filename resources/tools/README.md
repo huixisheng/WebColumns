@@ -16,5 +16,6 @@
 
 ## 其他
 - Oh My RSS - 这才是我要的RSS [https://ohmyrss.com/](https://ohmyrss.com/)
+- tldr-pages/tldr: Simplified and community-driven man pages [https://github.com/tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 <Comment />
