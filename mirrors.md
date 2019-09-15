@@ -10,9 +10,9 @@ disturl "https://npm.taobao.org/dist"
 nvm_nodejs_org_mirror "https://npm.taobao.org/mirrors/node"
 NODEJS_ORG_MIRROR "https://npm.taobao.org/mirrors/node"
 sass_binary_site "https://npm.taobao.org/mirrors/node-sass"
-electron_mirror "https://npm.taobao.org/mirrors/electron/"
+electron_mirror "https://npm.taobao.org/mirrors/electron"
 SQLITE3_BINARY_SITE "https://npm.taobao.org/mirrors/sqlite3"
-profiler_binary_host_mirror "https://npm.taobao.org/mirrors/node-inspector/"
+profiler_binary_host_mirror "https://npm.taobao.org/mirrors/node-inspector"
 node_inspector_cdnurl "https://npm.taobao.org/mirrors/node-inspector"
 selenium_cdnurl "https://npm.taobao.org/mirrors/selenium"
 puppeteer_download_host "https://npm.taobao.org/mirrors"
@@ -63,6 +63,7 @@ fse_binary_host_mirror="https://npm.taobao.org/mirrors/fsevents"
 - 安装依赖时遇到 `node-gyp` 权限的问题可以加上 `--unsafe-perm` 配置 gyp WARN EACCES user "root" does not have permission to access the dev dir "/root/.node-gyp/4.2.2" · Issue #405 · nfarina/homebridge [https://git.io/fjjy5](https://git.io/fjjy5)
 - NPM添加二进制文件镜像地址 – 奔霸 [https://www.runjf.com/nodejs/npm-add-binary-mirror](https://www.runjf.com/nodejs/npm-add-binary-mirror) `npm view node-pre-gyp`
 - 搭建 NPM Proxy 之预编译包 - WAYJAM [https://wayjam.me/post/internal-npm-proxy-prebuild-package.md](https://wayjam.me/post/internal-npm-proxy-prebuild-package.md)
+- gucong3000/mirror-config-china: Mirrors in China about node.js [https://github.com/gucong3000/mirror-config-china](https://github.com/gucong3000/mirror-config-china)
 
 
 ## 镜像资源
