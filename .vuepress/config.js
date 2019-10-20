@@ -57,7 +57,13 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
-      { text: '每天一点点', link: '/day-day-up' },
+      { 
+        text: '每天一点点',
+        items: [
+          { text: '2019-09', link: '/resources/day-day-up/2019-09' },
+          { text: '2019-10', link: '/resources/day-day-up/2019-10' }
+        ] 
+      },
       {
         text: '前端',
         items: [
