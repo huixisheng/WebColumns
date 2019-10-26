@@ -76,3 +76,4 @@ fse_binary_host_mirror="https://npm.taobao.org/mirrors/fsevents"
 - 腾讯软件源 [https://mirrors.cloud.tencent.com/](https://mirrors.cloud.tencent.com/)
 - 国内开源镜像站点汇总 chinese-opensource-mirror-site: 国内开源镜像站点汇总 [https://gitee.com/gsls200808/chinese-opensource-mirror-site](https://gitee.com/gsls200808/chinese-opensource-mirror-site)
 - 国内镜像源整理 | 前端开发者说 [https://huixisheng.github.io/%2Fmirror%2F](https://huixisheng.github.io/%2Fmirror%2F)
+- 阿里云容器镜像服务 [https://cr.console.aliyun.com/cn-hangzhou/instances/repositories](https://cr.console.aliyun.com/cn-hangzhou/instances/repositories)
