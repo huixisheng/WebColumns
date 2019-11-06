@@ -61,7 +61,8 @@ module.exports = {
         text: '每天一点点',
         items: [
           { text: '2019-09', link: '/resources/day-day-up/2019-09' },
-          { text: '2019-10', link: '/resources/day-day-up/2019-10' }
+          { text: '2019-10', link: '/resources/day-day-up/2019-10' },
+          { text: '2019-11', link: '/resources/day-day-up/2019-11' },
         ] 
       },
       {
