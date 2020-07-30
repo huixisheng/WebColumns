@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c10977b2285aacaf18b4c983685f352b"
+    "revision": "4c75a6ae0fd0d07ed2f9025844b87e85"
   },
   {
     "url": "assets/css/0.styles.01f807b4.css",
@@ -122,76 +122,76 @@ self.__precacheManifest = [
     "revision": "9b8051c8c7945df5cf94a653f6bbfc4c"
   },
   {
-    "url": "assets/js/app.3cb288c6.js",
-    "revision": "80169c33abe85d3c3a9d3440c95914a8"
+    "url": "assets/js/app.2be7f6fc.js",
+    "revision": "df1770a09770e26cf5022d76f30fd29c"
   },
   {
     "url": "github.html",
-    "revision": "578e73738de1f72c62b62309e2ce16c6"
+    "revision": "e9b85d951ac9fa340e328f329ddafb51"
   },
   {
     "url": "haowan.html",
-    "revision": "470225361bebb50625be9ecf48764f12"
+    "revision": "85eeab3de26d9669d8548721457acfce"
   },
   {
     "url": "index.html",
-    "revision": "129e643d8fe537b760f71401211200aa"
+    "revision": "faa7bde167d7c1f079e62c57fb504c87"
   },
   {
     "url": "mirrors.html",
-    "revision": "c97f329f5d9dbedd7cc59699733c9174"
+    "revision": "8dfee623345018e321a88e60b4e05ff1"
   },
   {
     "url": "resources/app-push/index.html",
-    "revision": "38ac29cf4b5199992c69647190b87c3a"
+    "revision": "0789012102afd7e158fdc3f3ce021f63"
   },
   {
     "url": "resources/day-day-up/2019-09.html",
-    "revision": "f413d97a0496093c199f889d9675b602"
+    "revision": "0296bff185ae2342c6896945059938d2"
   },
   {
     "url": "resources/day-day-up/2019-10.html",
-    "revision": "cdb360b42fb8fb5b0eaf9dfbcd96de70"
+    "revision": "cea3f083decf731741304f40486a6e04"
   },
   {
     "url": "resources/day-day-up/2019-11.html",
-    "revision": "e907ccad0a73aa4756f5aea092898d9a"
+    "revision": "a486b0d27c3b747495f442bcb85357e8"
   },
   {
     "url": "resources/day-day-up/模板.html",
-    "revision": "92cba0eb68db0aec506b3790e907225a"
+    "revision": "4575610f0b0656e4522767421ef5e6cf"
   },
   {
     "url": "resources/flutter/flutter.html",
-    "revision": "8a72110ea6522091aec27be104a22bc2"
+    "revision": "a6a09200e59f7d28126449c458fc1f19"
   },
   {
     "url": "resources/node-library/index.html",
-    "revision": "1707ddb93b4c590f91eebd31a503a0a8"
+    "revision": "488cb842cccc8fdd1623fe346e6d99be"
   },
   {
     "url": "resources/node/index.html",
-    "revision": "356be9a5fa78237c2ac9a81a2dac480e"
+    "revision": "27d1e740bf3d2f8a652f57bfef3bdc1b"
   },
   {
     "url": "resources/security/index.html",
-    "revision": "abf49f0fa796a37ff34dfef52370822a"
+    "revision": "94bc709ff622f568b15bd65c7f68c95e"
   },
   {
     "url": "resources/tools/index.html",
-    "revision": "7a6b2062b7348b3b7e4c5278985f712b"
+    "revision": "dd95c470bd5707166cdaafe665bae1b7"
   },
   {
     "url": "resources/typescript/index.html",
-    "revision": "29538443a45231634ffd3a818c80a112"
+    "revision": "7fc1d4ddc3c707aa36fd64aa96e88fbe"
   },
   {
     "url": "resources/utils/index.html",
-    "revision": "cd8ca714e8251e96e99c15618aa034ff"
+    "revision": "471234d0d69d27aead113661d1417010"
   },
   {
     "url": "scripts/template.html",
-    "revision": "d086966898911e8b3ceaeb7de2ee321a"
+    "revision": "78fe86be245313eaf10de105e9d8eb9a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
