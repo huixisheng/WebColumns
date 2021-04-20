@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e87ba3f0a7ec836148ca6879f1a0b9d0"
+    "revision": "93bedf8196d2d46e89653b9295fad5bd"
   },
   {
     "url": "assets/css/0.styles.953bd517.css",
@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "e679291b618b2b8d842f408119bd1f06"
   },
   {
-    "url": "assets/js/2.0d20c811.js",
-    "revision": "3bf898801d705fcd9a7b0e9fac1daf48"
+    "url": "assets/js/2.64e7d9da.js",
+    "revision": "28c2c2086f37c71de7baed3628e53c63"
   },
   {
     "url": "assets/js/20.bf66158e.js",
@@ -110,8 +110,8 @@ self.__precacheManifest = [
     "revision": "d55b9a653346a1243328420e1fa1feac"
   },
   {
-    "url": "assets/js/5.70f07690.js",
-    "revision": "e4dacce9a087b38de7e75f10aaaf2209"
+    "url": "assets/js/5.575cc656.js",
+    "revision": "bb685514df2168c7555a4b5868c6b064"
   },
   {
     "url": "assets/js/6.f818eb7a.js",
@@ -130,76 +130,76 @@ self.__precacheManifest = [
     "revision": "a59fad618c51e22ab3ffa629a894312a"
   },
   {
-    "url": "assets/js/app.7ca7546f.js",
-    "revision": "6b66f7789cdc9ee37cfe8d3ea8685176"
+    "url": "assets/js/app.f069aa80.js",
+    "revision": "bf484b3bf6a9d9b185ef7bece281c773"
   },
   {
     "url": "github.html",
-    "revision": "a3d3baa61c77b628bd0e4f869c42df66"
+    "revision": "0ab92dc4680cf5e7bdc6e49194a7a18b"
   },
   {
     "url": "haowan.html",
-    "revision": "6bc5d037afb3d2928205a91acd0146a5"
+    "revision": "0fae628ad5fa1f45af211eb8997e1874"
   },
   {
     "url": "index.html",
-    "revision": "548f36e996a70fea375be6aed3625bfa"
+    "revision": "2c62ffb771ff1cc6e7c93b8dfcbe4090"
   },
   {
     "url": "mirrors.html",
-    "revision": "3cbdaaf059275b64d0718f305a0e00e8"
+    "revision": "6fd5014f26446b1847403fe8836ff796"
   },
   {
     "url": "resources/app-push/index.html",
-    "revision": "37f7403d12bd722ce4cc314bf4ed3b78"
+    "revision": "34522c767b3b589ca55ff4d7056c6d6a"
   },
   {
     "url": "resources/day-day-up/2019-09.html",
-    "revision": "2578dd4248192dabbed7b6024ee0fe21"
+    "revision": "7d165d8aa507c4c7c6918fa4a8e9dbef"
   },
   {
     "url": "resources/day-day-up/2019-10.html",
-    "revision": "34d6397076325e8d5e92818c8e161386"
+    "revision": "2a87a2bbea37f81e055efde7a7874b7e"
   },
   {
     "url": "resources/day-day-up/2019-11.html",
-    "revision": "bd21b6310772da739801fcf40b7e43ef"
+    "revision": "49702ae90c97c382326b08b44cbc3b10"
   },
   {
     "url": "resources/day-day-up/模板.html",
-    "revision": "87ccabe9d5e6f01d681d9c6ee7e15889"
+    "revision": "a244fb27212bc45bf08ae374cb144ebd"
   },
   {
     "url": "resources/flutter/flutter.html",
-    "revision": "5c18ae7f72148d98e9d02c2d3f7cc3f8"
+    "revision": "a54b986bfec7b5ebc1b936235adcf61d"
   },
   {
     "url": "resources/node-library/index.html",
-    "revision": "2e711a53f10f1e7a06250f2d517f98ee"
+    "revision": "2bcaa2929b674dd93e77e2dff844f79a"
   },
   {
     "url": "resources/node/index.html",
-    "revision": "c450be52f7b4c6e465f96bd67fc97db5"
+    "revision": "dc07759539d9abce8f0b2c867dc1425a"
   },
   {
     "url": "resources/security/index.html",
-    "revision": "917b3f6400041f294701ff51c0e93e99"
+    "revision": "31f38b25a6000fd47b49d4753478a0df"
   },
   {
     "url": "resources/tools/index.html",
-    "revision": "ab38b8bb6007345ca25fd898c89081d4"
+    "revision": "7c6726f522fabd72b8a1f6e178900589"
   },
   {
     "url": "resources/typescript/index.html",
-    "revision": "1776763a5cfcc045f0262b53685fd746"
+    "revision": "e20e5c36064f87f9b1559ab2f1aeb0e5"
   },
   {
     "url": "resources/utils/index.html",
-    "revision": "71e9f350b97f7fbdc83c348aa16287c7"
+    "revision": "6326cbbf319b23e45aaf571f9b25c2e3"
   },
   {
     "url": "scripts/template.html",
-    "revision": "5856e94e85c77a9b76a79700c8691680"
+    "revision": "6161ba24e93f03d35485191584603da8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
