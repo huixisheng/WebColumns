@@ -22,7 +22,7 @@
     "@vuepress/plugin-pwa": "^1.0.3",
     "cheerio": "^1.0.0-rc.3",
     "glob": "^7.1.4",
-    "markdown-it": "^9.1.0",
+    "markdown-it": "^12.3.2",
     "request": "^2.88.0",
     "vuepress-plugin-reading-time": "^0.1.1"
   }
